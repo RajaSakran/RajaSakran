@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RajaSakran
+- 👀 I’m interested in Coding Websites & managing apps!
+- 🌱 I’m currently learning html, scss, python , c# and js.
+- 💞️ I’m looking to collaborate on apps producing and managing
+- 📫 How to reach me email: rajasakran12@gmail.com, www.instagram.com/rajasakran, discord: 4kiiWiNkra#5063.
